@@ -1,0 +1,5 @@
+[user]
+	emal = iglesonfreire1993@gmail.com
+	name = igleson
+[alias]
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
